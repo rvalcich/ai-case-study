@@ -40,23 +40,24 @@ There has been a greater development of mobile and on-line banking services.
 
 * What are the other major companies in this field?
 As of April of 2024, Citibank's peers (by size and rank) were as follows*:
-| RANK | BANK NAME | TOTAL ASSETS | PREVIOUS RANK |
-| :--- | :--- | :--- | :---|
-| 1 | JPMorgan Chase | $3.40 trillion | 1 |
-| 2 | Bank of America | $2.54 trillion | 2 |
-| 3 | Wells Fargo | $1.73 trillion | 4 |
-| 4 | Citigroup | $1.68 trillion | 3 |
-| 5 | U.S. Bancorp | $650.7 billion | 5 |
-| 6 | PNC Financial Services | $557.5 billion | 6 |
-| 7 | Truist Bank | $527.5 billion | 8 |
-| 8 | Goldman Sachs | $521.1 billion | 7 |
-| 9 | Capital One Financial | $475.6 billion | 9 |
-| 10 | TD Group US Holdings | $367.2 billion | 10 |
-| 11 | Bank of New York Mellon | $332.5 billion | 11 |
-| 12 | State Street | $293.2 billion | 12 |
-| 13 | BMO 	$265.7 billion | 13 |
-| 14 | Citizens Financial | $221.8 billion | 14 |
-| 15 | First Citizens Bank | $213.8 billion | 15 |
+
+    | RANK | BANK NAME | TOTAL ASSETS | PREVIOUS RANK |
+    | :--- | :--- | :--- | :---|
+    | 1 | JPMorgan Chase | $3.40 trillion | 1 |
+    | 2 | Bank of America | $2.54 trillion | 2 |
+    | 3 | Wells Fargo | $1.73 trillion | 4 |
+    | 4 | Citigroup | $1.68 trillion | 3 |
+    | 5 | U.S. Bancorp | $650.7 billion | 5 |
+    | 6 | PNC Financial Services | $557.5 billion | 6 |
+    | 7 | Truist Bank | $527.5 billion | 8 |
+    | 8 | Goldman Sachs | $521.1 billion | 7 |
+    | 9 | Capital One Financial | $475.6 billion | 9 |
+    | 10 | TD Group US Holdings | $367.2 billion | 10 |
+    | 11 | Bank of New York Mellon | $332.5 billion | 11 |
+    | 12 | State Street | $293.2 billion | 12 |
+    | 13 | BMO | $265.7 billion | 13 |
+    | 14 | Citizens Financial | $221.8 billion | 14 |
+    | 15 | First Citizens Bank | $213.8 billion | 15 |
 
 ## Results
 
