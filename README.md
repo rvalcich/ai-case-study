@@ -4,29 +4,34 @@
 
 * Name of company - Citibank, N.A. 
 
-* When was the company incorporated?
+* When was the company incorporated?  
+
 Citibank was founded in 1812 as the City Bank of New York, and later became First National City Bank of New York.
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about?  
+
 There was a great need for providing banking services.
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received?  
+
 The company is listed in the NYSE and derives its funding through its business activities, as well as issuing long term debt and stock issuance, if necessary.
 
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific problem is the company or project trying to solve?  
+
 Banks, especially large global banks such as Citibank, face multiple problems they are trying to solve: fraud, money laundering, loss projections, lending decisions (both commercial and retail), interest rate modelling, and prepayment modeling, are just some of a great and varied number of problems a bank like this faces.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?  
 
-    Citibank serves a wide variety of commercial, institutional and retail clients with a wide variety of needs from commercial financing, construction project loans, IPOs, mortgages, personal loans, auto loans, credit cards, securities trading, 
+Citibank serves a wide variety of commercial, institutional and retail clients with a wide variety of needs from commercial financing, construction project loans, IPOs, mortgages, personal loans, auto loans, credit cards, securities trading, 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Citibank seeks to maintain market leadership by being able to offer the customers best execution on trading activity, lower interest rates on various loans they may offer, , among other offerings they seek to allow them to stand apart from their competitors.
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)  
 
-    Citibank is able to accomplish this in part to the global nature of their operations where they can leverage the relationships and market access they have globally.
+Citibank seeks to maintain market leadership by being able to offer the customers best execution on trading activity, lower interest rates on various loans they may offer, , among other offerings they seek to allow them to stand apart from their competitors.  
+
+Citibank is able to accomplish this in part to the global nature of their operations where they can leverage the relationships and market access they have globally.
 
 * Which technologies are they currently using, and how are they implementing them?
 
@@ -61,24 +66,29 @@ As of April of 2024, Citibank's peers (by size and rank) were as follows*:
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far?  
+
 Citibank is the 4th largest bank in the United States in terms of assets.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-* How is your company performing relative to competitors in the same field?
+* How is your company performing relative to competitors in the same field?  
+
 As can been seen in the latest ranking table above, Citibank has been able to be quite competitive in this field.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer?
+* If you were to advise the company, what products or services would you suggest they offer?  
+
 It is not so much advising them on the products they are offering - I think they are doing a good job on that front, but it is how AI/Machine Learning can be applied to more effectively address the myriad of issues they face as described above.  This bank, like many other larger financial institutions use a large and varied number of data sets, which require a tremendous amount of human intervention to stitch together and use effectively.
 
-* What technologies would this additional product or service utilize?
+* What technologies would this additional product or service utilize?  
+
 Given the large and varied datasets used by financial institutions such as Citibank, AI/Machine Learning is the solution to put into place to best leverage these disparate data sets required for the various functions that bank is engaged in.
 
-* Why are these technologies appropriate for your solution?
-Large data sets - the perfect problem set for AI/Machine learning to be applied to.
+* Why are these technologies appropriate for your solution?  
+
+Large data sets, multiple data sources, and the need for in-depth analysis/projection, which requires  - the perfect problem set for AI/Machine learning to be applied to.
 
 
 ## References
