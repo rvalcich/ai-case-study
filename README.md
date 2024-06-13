@@ -42,8 +42,9 @@
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
     >There has been a greater development of mobile and on-line banking services.
 
-* What are the other major companies in this field?
-As of April of 2024, Citibank's peers (by size and rank) were as follows*:
+* What are the other major companies in this field?  
+
+    >As of April of 2024, Citibank's peers (by size and rank) were as follows*:
 
     | RANK | BANK NAME | TOTAL ASSETS | PREVIOUS RANK |
     | :--- | :--- | :--- | :---|
